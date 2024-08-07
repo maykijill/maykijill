@@ -20,7 +20,7 @@
 
 <h3>Interests:</h3>
 
- - I am highly interested in Web Development and committed to continuously advancing my knowledge in the field of technology.
+ - I am highly interested in <b>Web Development</b> and committed to continuously advancing my knowledge in the field of technology.
 
 <h3 align="left">Socials:</h3>
 <div align="left">

@@ -9,8 +9,8 @@
 
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykicltx&label=Profile%20views&color=0e75b6&style=flat"
-        alt="maykicltx" /> </p>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=maykicltx&label=Profile%20visitors&color=0e75b6&style=flat"
+        alt="maykijill" /> </p>
 
 
 

@@ -16,7 +16,7 @@
 
 <h3>Education:</h3>
 
- - Currently studying <b>Bachelor of Science in Information Technology</b> :)
+ - Currently studying <b>Bachelor of Science in Information Technology.</b> :)
 
 <h3>Interests:</h3>
 

@@ -24,12 +24,12 @@
 
 <h3 align="left">Socials:</h3>
 <div align="left">
-<a href="https://facebook.com/xmikiejillcolita"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-<a href="https://instragram.com/xmaykijll_"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-<a href="https://x.com/xcattooo"><img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"  alt="X logo"  />
-<a href="https://discord.gg/731387818126868542"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"  height="30" alt="discord logo"  />
-<a href="mailto: mikiejillcolita@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  height="30" alt="gmail logo"  />
-<a href="https://www.linkedin.com/in/mikie-jill-colita-997177276"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=%230077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+<a href="https://facebook.com/xmikiejillcolita"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" width="100" alt="facebook logo"  />
+<a href="https://instragram.com/xmaykijll_"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" width="100" alt="instagram logo"  />
+<a href="https://x.com/xcattooo"><img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"  height="30" width="100" alt="X logo"  />
+<a href="https://discord.gg/731387818126868542"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" width="100" alt="discord logo"  />
+<a href="mailto: mikiejillcolita@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" width="100" alt="gmail logo"  />
+<a href="https://www.linkedin.com/in/mikie-jill-colita-997177276"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=%230077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" width="100" alt="linkedin logo"  />
 </div>
 
 ##

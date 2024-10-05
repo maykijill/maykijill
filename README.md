@@ -35,7 +35,7 @@
 ##
 <h3 align="left">Tech. Stack; I'm currently utilizing and learning:</h3>
 <a href="https://skillicons.dev"> 
-  <img src="https://skillicons.dev/icons?i=java,wordpress,figma,html,css,bootstrap,tailwind,js,php,git,github,linux,mysql,netlify,powershell,stackoverflow,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,wordpress,figma,html,css,bootstrap,js,git,github,netlify,stackoverflow,vscode,idea" />
 
 ##
  <div align="center">

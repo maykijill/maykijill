@@ -5,7 +5,7 @@
     </a>
 </h1>
 
-<h4 align="center">A girl trying to figure out stuff. ٩(＾◡＾)۶ </h4>
+<h4 align="center">trying to figure out stuff. </h4>
 
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
